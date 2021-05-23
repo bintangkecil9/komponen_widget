@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">widgetview</string>
+    <string name="nama">Nama :</string>
+    <string name="umur">Umur :</string>
+    <string name="alamat">Alamat :</string>
+    <string name="gender">Gender :</string>
+    <string name="kepemilikan_sim">Kepemilikan SIM :</string>
+    <string name="pria">PRIA</string>
+    <string name="wanita">WANITA</string>
+    <string name="sim_a">SIM A</string>
+    <string name="sim_c">SIM C</string>
+    <string name="sim_b">SIM B</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+</resources>
